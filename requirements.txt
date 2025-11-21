@@ -1,0 +1,20 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.1
+
+SQLAlchemy==2.0.30
+psycopg2-binary==2.9.9
+
+alembic==1.13.1
+
+pydantic==2.7.4
+pydantic-settings==2.3.4
+
+dynaconf==3.2.5
+
+python-dotenv==1.0.1
+
+python-multipart==0.0.9
+
+uuid==1.30  # optional — if you use UUID generation manually
+
+openpyxl
